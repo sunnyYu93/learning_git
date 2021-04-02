@@ -19,5 +19,6 @@ public class ClinitTest {
         System.out.println("hah");
         System.out.println("测试代码提交+  修改了 再次提交");
         System.out.println("第三次测试");
+        System.out.println("第四次测试");
     }
 }

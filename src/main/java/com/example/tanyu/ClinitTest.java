@@ -15,6 +15,8 @@ public class ClinitTest {
 
     static int k  = 0;
     public static void main(String[] args) {
+
         System.out.println("hah");
+        System.out.println("测试代码提交");
     }
 }

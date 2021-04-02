@@ -17,6 +17,6 @@ public class ClinitTest {
     public static void main(String[] args) {
 
         System.out.println("hah");
-        System.out.println("测试代码提交");
+        System.out.println("测试代码提交+  修改了 再次提交");
     }
 }
